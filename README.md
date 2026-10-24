@@ -1,7 +1,14 @@
 
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=600&lines=%3E+stutiiishukla+%2F%2F+dev;Initializing+developer+mode...;Welcome+to+my+digital+space." alt="Typing animation" />
+  <samp>🟢 stutiiishukla // dev</samp>
 </h1>
+
+<p align="center">
+  <samp>Initializing developer mode...</samp><br/>
+  <samp>Welcome to my digital space.</samp>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF88?style=for-the-badge&labelColor=080C10" alt="System online" />
